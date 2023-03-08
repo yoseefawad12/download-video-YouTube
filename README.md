@@ -1,12 +1,14 @@
 # download-video-YouTube
 
 ![Bannière de Probote](b.png)
-Suite à la suppression de la librarie [pronote-api de Litarvan](https://github.com/Litarvan/pronote-api) effectuée par Index-Education, je ne suis plus en mesure de continuer le support de ce bot. Le téléchargement des dépendances nécessaires produira une erreur. Vous pouvez intégrer vous-mêmes une nouvelle implémentation de Pronote si vous le souhaitez, mais je ne peux plus le faire de mon côté.
+<br>
+<br>
+.It is a tool that allows you to download YouTube videos to the storage space of the phone in high quality without any errors and at high speeds, but it is not possible to choose the quality in the next update, the quality selection feature will be added
 
 
 ## Program Advantages
 - features :
-   * [X] Chuck Norris
-   * [X] Saucisse
-   * [X] Loutre
-   * [X] Inspirobot
+   * [X] Download videos
+   * [X] Fast Download videos 
+   * [X] Download videos in high quality
+   * [ ] Quality selection
